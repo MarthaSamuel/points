@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Points
+comment0.text=\r\n\ CalculatingDistance\ between\ Pointss//\r\n\ N2a\r\n\ @author\:\ Dimgba\ Martha\ Otisi\ \r\n\ @2020,January\r\n\ \ @martha_samuel_\r\n
+comment1.params=startx\ starty
+comment1.target=Points(int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=otherPt
+comment4.target=double\ distance(Points)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
